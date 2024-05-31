@@ -1,5 +1,6 @@
 .env
 *.tfvars
+index.html
 
 # Local .terraform directories
 **/.terraform/*
